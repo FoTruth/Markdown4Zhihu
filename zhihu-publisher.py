@@ -17,7 +17,7 @@ from shutil import copyfile
 ###############################################################################################################
 ## Please change the GITHUB_REPO_PREFIX value according to your own GitHub user name and relative directory. ##
 ###############################################################################################################
-# GITHUB_REPO_PREFIX = Path("https://raw.githubusercontent.com/`YourUserName`/`YourRepoName`/master/Data/")
+# GITHUB_REPO_PREFIX = Path("https://raw.githubusercontent.com/`FoTruth`/`Markdown4Zhihu`/master/Data/")
 # Your image folder remote link
 GITHUB_REPO_PREFIX = "https://raw.githubusercontent.com/miracleyoo/Markdown4Zhihu/master/Data/"
 COMPRESS_THRESHOLD = 5e5 # The threshold of compression
